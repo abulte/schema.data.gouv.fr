@@ -1,0 +1,6 @@
+irve:
+    source: https://github.com/etalab/schema-irve
+    type:
+        - TableSchema
+    author: Etalab
+    licence: lov2

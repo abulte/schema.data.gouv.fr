@@ -1,0 +1,7 @@
+irve:
+    source: https://github.com/etalab/format-commande-publique
+    type:
+        - Json
+        - XSD
+    author: Etalab
+    licence: lov2
